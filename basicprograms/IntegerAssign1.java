@@ -8,6 +8,7 @@ public class IntegerAssign1 {
         System.out.println(s+"Nineteen");
         System.out.println(r+"Twelve");
         System.out.println(j+"Fifteen");
+        System.out.println("aaa");
     }
     
     
